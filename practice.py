@@ -1,2 +1,2 @@
-# This is a practice Python file.
-print('Hello from practice.py')
+# Sample script
+print('Hello, Git!')
